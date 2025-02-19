@@ -1,1 +1,1 @@
-System retrieval augmented generation based pdf (personal project)
+System retrieval augmented generation based pdf 
